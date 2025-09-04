@@ -17,7 +17,6 @@
       font-size: 60px;
       color: #012;
       line-height: 40px;
-      }
       h1 {
       position: absolute;
       margin: 0;
